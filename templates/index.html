@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
+  <title>Document Classifier</title>
+</head>
+
+<body>
+  <h1>Document Classifier </h1>
+  <form action="/submit" method="post" enctype="multipart/form-data" id="image-form">
+    <label for="image">Choose an image:</label>
+    <input type="file" accept="image/*" required name="image" id="image-input">
+    <input type="submit" value="Submit" id="submitBtn">
+  </form>
+</body>
+</html>
