@@ -1,4 +1,4 @@
-# Mnist
+# Document Classifier
 
 This is a project for Classifying Documents using Document Image Transformer model (pretrained). To get started with the project, follow the steps below.
 
