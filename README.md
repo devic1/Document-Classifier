@@ -9,11 +9,11 @@ This is a project for Classifying Documents using Document Image Transformer mod
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/devic1/Mnist.git
+  https://github.com/devic1/Document-Classifier
   ```
 2. Navigate to that Directory 
   ```sh
-  cd Mnist
+  cd Document-Classifier
   ```
 3. Start the application using Docker Compose:
   ```sh
@@ -29,11 +29,11 @@ This is a project for Classifying Documents using Document Image Transformer mod
 1. Clone the repository:
 
   ```sh
-  git clone https://github.com/devic1/Mnist.git
+  git clone https://github.com/devic1/Document-Classifier
   ```
 2. Navigate to that Directory 
   ```sh
-  cd Mnist
+  cd Document-Classifier
   ```
 3. Install the required packages:
   ```sh
