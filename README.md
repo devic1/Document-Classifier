@@ -2,7 +2,7 @@
 
 This is a project for Classifying Documents using Document Image Transformer model (pretrained). To get started with the project, follow the steps below.
 
-![Demonstartion Video](https://user-images.githubusercontent.com/64413800/221366036-5f3c7499-a41d-4982-9018-de72830b8652.gif)
+![Demonstartion Video](https://user-images.githubusercontent.com/64413800/224017074-f8247566-7834-4b31-bf1e-def0ce4abda9.gif)
 
 
 ## Getting Started
