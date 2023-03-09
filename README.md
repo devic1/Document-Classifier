@@ -7,7 +7,9 @@ This is a project for Classifying Documents using Document Image Transformer mod
 
 ## Getting Started
 
-### Download The Model with this link https://drive.google.com/file/d/1-90ngMC4r2bSN6xniFg2aMPSrEiuGHNJ/view?usp=sharing
+Download The Model with this link 
+<p>Download The Model <a href="[https://example.com](https://drive.google.com/file/d/1-90ngMC4r2bSN6xniFg2aMPSrEiuGHNJ/view?usp=sharing)">Here</a></p>
+
 
 1. Clone the repository:
   ```sh
